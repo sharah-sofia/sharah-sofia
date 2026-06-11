@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2C3A47&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Sharah+Sofia;Data+Automation+Analyst;Machine+Learning+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Sharah+Sofia;Data+Automation+Analyst;Machine+Learning+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 I am a Data Automation Analyst and a Master's student in Information and Communication Technology at Jahangirnagar University. I specialize in building end-to-end automated data pipelines, processing complex medical and EHR records, and designing full-stack applications with an emphasis on intelligent automation and Machine Learning. 
